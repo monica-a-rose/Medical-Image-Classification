@@ -1,6 +1,6 @@
 # Deep Learning for Medical Image Classification
 
-### 📖 [View the Full Project Report (PDF)](Medical_Image_Classification_Report.pdf)
+### 📖 [View the Full Project Report (PDF)](Medical_Image_Classification.pdf)
 
 ---
 
