@@ -17,8 +17,6 @@ This project uses the **PathMNIST** dataset, which is part of the MedMNIST v2 co
 *   **Source:** The dataset can be downloaded from the official MedMNIST repository on Zenodo or from the [MedMNIST GitHub](https://github.com/MedMNIST/MedMNIST/).
 *   **Citation:** Kather, J. N., Krisam, J., & Charoentong, P. (2019). Predicting survival from colorectal cancer histology slides using deep learning: A retrospective multicenter study. *PLOS Medicine*, 16(1), e1002730.
 
-To run this project, please download the `pathmnist.npz` file and place it in the root directory of the repository, renaming it to `Assignment2Data.npz` as expected by the notebook.
-
 ## Key Features & Methodology
 
 *   **Model Development:** A 3-layer CNN was built and trained using **PyTorch** to perform multi-class image classification.
